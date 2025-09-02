@@ -11,7 +11,11 @@ The files included in this repository are:
 5. requirements.txt
 6. main.yaml
 
-The following commands can be run to try the makefile commands:
+Setup Instructions:
+1. First clone this Github repository locally.
+2. Run ```make install``` to install necessary dependencies.
+
+Additionally, following commands can be run to try the makefile commands:
 
 make test
 
